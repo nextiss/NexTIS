@@ -24,7 +24,7 @@ Nosso propósito é **simplificar processos e aumentar a eficiência de empresas
 
 ## ⚙️ Tecnologias (planejadas/atuais)
 - **Frontend:** React.js / Next.js  
-- **Backend:** Node.js / Express  
+- **Backend:** Java
 - **Banco de Dados:** MySQL / PostgreSQL  
 - **Hospedagem:** Railway / Vercel  
 

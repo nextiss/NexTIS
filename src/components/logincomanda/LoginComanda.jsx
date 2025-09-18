@@ -11,7 +11,7 @@ const LoginComandou = ({ onLogin }) => {
 
   const handleSubmitComandou = (e) => {
     e.preventDefault();
-    
+    /*aqui dá pra alterar a senha que o login aceita*/
     if (loginComandouEmail === 'nextiscontato@gmail.com' && loginComandouSenha === 'nextiscomandou12@') {
       setErroLoginComandou('');
       onLogin(true);

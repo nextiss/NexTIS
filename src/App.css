@@ -5,10 +5,6 @@
   padding: 0%;
 }
 
-/* body {
-  background: var(--background-gray);
-} */
-
 #root {
   width: 100%;
   max-width: 1940px;
@@ -27,12 +23,12 @@
 }
 
 ::-webkit-scrollbar-track {
-  background: #f2f2f2;
+  background: #1c2830;
   border-radius: 15px;
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: #dfdad4;
+  background-color: #293b44;
   border-radius: 10px;
-  border: 2px solid #f2f2f2;
+  /* border: 2px solid #181717; */
 }

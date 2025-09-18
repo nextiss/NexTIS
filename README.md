@@ -24,7 +24,7 @@ Nosso propósito é **simplificar processos e aumentar a eficiência de empresas
 
 ## ⚙️ Tecnologias (planejadas/atuais)
 - **Frontend:** React.js / Next.js  
-- **Backend:** Java
+- **Backend:** Java  
 - **Banco de Dados:** MySQL / PostgreSQL  
 - **Hospedagem:** Railway / Vercel  
 
@@ -34,8 +34,3 @@ Nosso propósito é **simplificar processos e aumentar a eficiência de empresas
 Em desenvolvimento 🚧.  
 Estamos evoluindo constantemente com foco na usabilidade e performance.
 
-## 📫 Contato
-Caso tenha dúvidas, sugestões ou interesse em contribuir:  
-✉️ contato@nextis.com (ou seu e-mail/LinkedIn)
-
----

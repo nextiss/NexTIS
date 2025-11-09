@@ -1,7 +1,7 @@
 # 🚀 NexTIS
 
 Bem-vindo ao **NexTIS**, uma plataforma digital que oferece soluções modernas para gestão empresarial.  
-Nosso sistema é dividido em dois serviços principais:
+Nosso sistema é dividido em dois serviços principais: 
 
 ## 📦 Gestão de Estoque
 - Controle completo de produtos.
